@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.convert-btn{
+  margin-left: 1vw;
+}
+
+.form{
+  padding-top: 5vh;
+}
+
+.error-container{
+  padding-top: 2vh;
+}
+
+.binary-container input{
+  margin-left: 0.7vw
+}
+
+.binary-container {
+  padding-bottom: 1vh;
+}
+
+header{
+  padding-left: 2vw;
+  padding-top: 4vh;
+}
